@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\johnr\.android\build-cache\daa2b38d259c4b30784d906a93be0138b87fb37d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="C:\Users\johnr\AndroidStudioProjects\Kart&apos;sBurgerBar\app\build\intermediates\pre-dexed\debug\classes_45da748d98bbf40b7b644e0b4a2e14d2cf1dbec4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\johnr\.android\build-cache\313489b74e692b663e512c49e152582e23a688a8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="C:\Users\johnr\AndroidStudioProjects\Kart&apos;sBurgerBar\app\build\intermediates\pre-dexed\debug\classes_53d0ca35b5891be954c7c2e7a618f1bc059864a8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\johnr\.android\build-cache\ca49d5722b010256ec711b22db035ea7c69aae74\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\johnr\AndroidStudioProjects\Kart&apos;sBurgerBar\app\build\intermediates\pre-dexed\debug\classes_2cebed80d9e9ce3a982888710705f792b2da19d8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\johnr\.android\build-cache\5f58113fa5c46dce09b62b2d159fc52b7ccac087\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="C:\Users\johnr\AndroidStudioProjects\Kart&apos;sBurgerBar\app\build\intermediates\pre-dexed\debug\classes_26c4e892e1712d7ae8e27429c9634530e99ffa95.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\johnr\.android\build-cache\9cc2a667b7aa615fc764a09859e0eea2fd02a841\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="C:\Users\johnr\AndroidStudioProjects\Kart&apos;sBurgerBar\app\build\intermediates\pre-dexed\debug\classes_ef39091a06b7bd7763aa36622d9b31bdc24934c1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\johnr\.android\build-cache\7977ad97299e7be0d0a08c91c9222a95134cf852\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="C:\Users\johnr\AndroidStudioProjects\Kart&apos;sBurgerBar\app\build\intermediates\pre-dexed\debug\classes_485bae08376ad1c2002db4795560f7acc631ead0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\johnr\.android\build-cache\015e5e35e02300bf666a05df81071fcde32d491c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\johnr\AndroidStudioProjects\Kart&apos;sBurgerBar\app\build\intermediates\pre-dexed\debug\classes_12f8b4b06eb5c089c06660a4f8d3d1d472c570d5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\johnr\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="C:\Users\johnr\AndroidStudioProjects\Kart&apos;sBurgerBar\app\build\intermediates\pre-dexed\debug\support-annotations-26.0.0-alpha1_e4d48c8d2f850bc2d4a59fc9ff7551a5333d900f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\johnr\.android\build-cache\acfa14d412f6522cbd1d01ab35f6f57894de24a7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="C:\Users\johnr\AndroidStudioProjects\Kart&apos;sBurgerBar\app\build\intermediates\pre-dexed\debug\classes_3dcc6fe2dbb3ba590fdfe97590ec0760606314ff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\johnr\.android\build-cache\4613d10af17e74fd2211329847a1cdab208cb4f7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="C:\Users\johnr\AndroidStudioProjects\Kart&apos;sBurgerBar\app\build\intermediates\pre-dexed\debug\classes_1b972de08208fd68845e236af13111c42f744026.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\johnr\.android\build-cache\e6d303175697cb84bc7e70ec3eb81970f410ccee\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="C:\Users\johnr\AndroidStudioProjects\Kart&apos;sBurgerBar\app\build\intermediates\pre-dexed\debug\classes_27eb09b6313fa7224b0c7a4813bbbc3a3ead536e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\johnr\.android\build-cache\2f61ac673d88a9f02068c2a722acef7f4759b123\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="C:\Users\johnr\AndroidStudioProjects\Kart&apos;sBurgerBar\app\build\intermediates\pre-dexed\debug\classes_b41bfc1c56b8315d6a12b7cc47f25cbc72cbeb83.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\johnr\AppData\Local\Android\Sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\johnr\AndroidStudioProjects\Kart&apos;sBurgerBar\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_5825ef604848ae11754ebdc4a33faff847c6f377.jar" />
+    </item>
+
+</items>
